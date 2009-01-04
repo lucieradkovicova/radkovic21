@@ -3,7 +3,7 @@ handlers:
 - url: '/'
   static_files: 'stanice.html'
   upload: '.*'
-- url: '/stanice'
+- url: '/(stanice|beton|parking|mapa|info)'
   static_files: 'stanice.html'
   upload: '.*'
 - url: '/kontakt'
