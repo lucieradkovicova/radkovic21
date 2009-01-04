@@ -1,0 +1,252 @@
+img { behavior: url(../images/pngbehavior.htc);}
+
+#doc3 {margin:auto;}
+
+body {
+   background-color: #f2f2dd;
+   font-family: Verdana, Sans-serif;
+}
+
+a {
+  color: #7F3300;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #7F6633;
+}
+
+#bd {
+  clear: both;
+}
+
+#hp a {
+  text-decoration: none;
+}
+
+#hd {
+  height: 90px;
+  background: #eee url(../images/hd.png) repeat-x;
+  border-bottom: 3px solid #ccc;
+}
+
+#hpc {
+  background: #eee url(../images/hp.png) repeat-x;
+}
+
+#lpc {
+  background: #f2f2dd url(../images/lp.png) repeat-x;
+}
+
+#lang li {
+  list-style-type: none;
+  list-style-position: inside;
+  display: inline;
+  font-family: Tahoma;
+  font-size: 100%;
+  font-weight: bold;
+  padding-left: 4px;
+}
+
+#hd ul {
+  margin: 0;
+  padding: 0;
+  float: right;
+  clear: right;
+}
+
+#hd #lang {
+  margin-top: 2px;
+  line-height: 20px;
+}
+
+#hd #nav {
+  margin-top: 46px;
+  line-height: 24px;
+  height: 24px;
+}
+
+.opera #hd #nav {
+  margin-top: 47px !important;
+}
+
+.ie #hd #nav {
+  margin-top: 48px !important;
+}
+
+#nav li {
+  list-style-type: none;
+  list-style-position: inside;
+  display: inline;
+  font-family: Tahoma;
+  font-size: 130%;
+  font-weight: bold;
+  padding-left: 8px;
+}
+
+#nav li a {
+  padding-left: 8px;
+  padding-right: 8px;
+  text-decoration: none;
+  background-color: #ddd;
+  color: #999;
+  border-top: 3px solid #d2d2d2;
+  border-left: 3px solid #d2d2d2;
+  border-right: 3px solid #d2d2d2;
+}
+
+#nav li.active a {
+  background-color: #eee;
+  border-top: 3px solid #ccc;
+  border-left: 3px solid #ccc;
+  border-right: 3px solid #ccc;
+  border-bottom: 3px solid #eee;
+  color: #444;
+}
+
+#nav li a:hover {
+  color: #444;
+}
+
+#logo {
+  float: left;
+}
+
+#hp {
+  height: 280px;
+}
+
+#show {
+  width: 350px;
+  height: 240px;
+}
+
+#hp h1 {
+  font-family: Tahoma;
+  font-size: 300%;
+  margin-top: 35px;
+  margin-bottom: 0;
+}
+
+#hp h2 {
+  font-family: Tahoma;
+  font-size: 200%;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  color: #228;
+}
+
+#hp h3 {
+  font-family: Tahoma;
+  font-size: 150%;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  color: #444;
+}
+
+#hp p {
+  margin-top: 20px;
+  font-size: 120%;
+  font-weight: bold;
+  color: #666;
+}
+
+#hp table {
+  font-family: Tahoma;
+  font-size: 100%;
+  line-height: 6px;
+}
+
+#hp table>thead {
+  font-weight: bold;
+}
+
+#hpc {
+   background-color: #fff;
+}
+
+#lpc {
+   border-top: 1px solid #bbb;
+}
+
+#ft div {
+   border-top: 1px solid #bbb;
+   background: #f2f2dd url(../images/ft.png) repeat-x;
+   height: 24px;
+   margin-top: 5px;
+}
+
+h3 {
+  font-family: Tahoma;
+  font-size: 200%;
+  margin-top: 6px;
+  margin-bottom: 24px;
+}
+
+#ft p {
+  color: #666;
+  font-size: 80%;
+  margin-top: 3px;
+}
+
+.right {
+  float:right;
+}
+
+.left {
+  float:left;
+}
+
+.stpic {
+  border: 1px solid #aaa;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 120%;
+}
+
+.lc {
+  width: 47% !important;
+}
+
+.rc {
+  width: 47% !important;
+}
+
+.clear {
+  clear: both;
+}
+
+.small {
+  font-size: 80%;
+}
+
+#mapa {
+  border: 1px solid #aaa;
+}
+
+#mapa_info {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -2px;
+  color: #666;
+}
+
+#loga img {
+  border: 1px solid #aaa;
+  padding: 2px;
+  background-color: #fff;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#loga {
+  margin-bottom: 10px;
+}
+
+#l2 {
+  font-size: 250%;
+}
