@@ -113,7 +113,7 @@ a:hover {
 }
 
 #hp {
-  height: 280px;
+  min-height: 280px;
 }
 
 #show {
@@ -162,7 +162,7 @@ a:hover {
 }
 
 #hpc {
-   background-color: #fff;
+   background-color: #F2F2DD;
 }
 
 #lpc {
@@ -249,4 +249,9 @@ h4 {
 
 #l2 {
   font-size: 250%;
+}
+
+.offer-details{
+    position: relative;
+    top: -10px;
 }
