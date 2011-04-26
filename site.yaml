@@ -1,4 +1,3 @@
-default_expiration: "1d"
 handlers:
 - url: '/'
   static_files: 'stanice.html'
